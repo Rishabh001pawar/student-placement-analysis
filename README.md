@@ -11,9 +11,16 @@ Tools Used:
 Python, Pandas, Scikit-learn, SHAP
 Random Forest (92% accuracy)
 
+how to run:
+1.Open the notebook in Google Colab (link above).
+2.Run all the cells step-by-step.
+3.Upload your own dataset or use the default one.
+4.Get predictions and SHAP-based feature interpretation.
+
 Why I made it:
 To help students understand what really matters for placements.
 
 ---
 By Lavi Pawar
-GitHub: lavipawar4
+GitHub:https://github.com/lavipawar4
+repository:https://github.com/lavipawar4/student-placement-analysis/tree/main
